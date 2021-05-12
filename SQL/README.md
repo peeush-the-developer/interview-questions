@@ -14,6 +14,8 @@ _Difficulty: Easy_
 
 ![Question 2 pic](Question-2/SQL_Q2.jpeg)
 
+[Solution](Question-2/SQL_A2.sql)
+
 ## Question 3
 
 1. Find the name and score of the highest scorer in each subject. 
