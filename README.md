@@ -23,5 +23,5 @@ Adding questions from different sources on different topics in Python.
 
 ## [Pandas questions](/Pandas)
 
-+ [Transform column to take first word](/Pandas/pandas-1.ipynb)
++ [Transform column to take first word](/Pandas/pandas_problem_statement_01.ipynb)
 + _More to follow soon.._
