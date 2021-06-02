@@ -21,3 +21,7 @@ Adding questions from different sources on different topics in Python.
 + [Python lists](/Python/list-questions.ipynb)
 + _More to follow soon.._
 
+## [Pandas questions](/Pandas)
+
++ [Transform column to take first word](/Pandas/pandas-1.ipynb)
++ _More to follow soon.._
